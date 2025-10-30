@@ -1,13 +1,13 @@
 # 👋 Olá! Eu sou o Filipe Simões  
 
-💻 Desenvolvedor **FullStack** — apaixonado por tecnologia e por criar soluções práticas e bem estruturadas.  
+💻 Desenvolvedor **FullStack**  
 🎓 Estudante de **Engenharia de Software** na PUC-Campinas (2024–2028).  
 📍 Campinas, São Paulo, Brasil  
 
 ---
 
 ## 🚀 Sobre mim
-Mais de **2 anos de experiência** na área de desenvolvimento.  
+Mais de 2 anos de experiência na área de desenvolvimento.  
 Gosto de transformar ideias em código e trabalhar em projetos que realmente façam diferença.  
 Sou focado, comunicativo e gosto de aprender rápido — especialmente quando o desafio é grande.  
 
@@ -16,18 +16,13 @@ Sou focado, comunicativo e gosto de aprender rápido — especialmente quando o 
 ## 🧠 Tecnologias e Ferramentas
 
 ### 💾 Linguagens de Programação
-`C` | `Python` | `C#` | `TypeScript` | `Kotlin`  
+`C` | `C#` | `Python` | `TypeScript` | `Kotlin` | `Java`
 
 ### 🌐 Desenvolvimento Web
 `HTML` | `CSS` | `JavaScript` | `Node.js`  
 
 ### 🧰 Backend & Banco de Dados
-`MySQL` | `Firebase` | `Oracle SQL Developer`  
-
-### ⚙️ Outras Skills
-📘 Documentação e modelagem de sistemas  
-🧩 Versionamento com `Git` e `GitHub`  
-📱 Desenvolvimento Android (Jetpack Compose)
+`MySQL` | `Firebase` | `Oracle SQL`  
 
 ---
 
@@ -48,7 +43,3 @@ Sou focado, comunicativo e gosto de aprender rápido — especialmente quando o 
 📧 **[filiperibeirosimoes@gmail.com](mailto:filiperibeirosimoes@gmail.com)**  
 🔗 [LinkedIn](https://www.linkedin.com/in/filipe-simões-03692a27a)  
 💼 [GitHub](https://github.com/FilipeeeRS)
-
----
-
-⭐ *“Aprender, construir e evoluir — um commit por vez.”*
