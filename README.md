@@ -8,28 +8,21 @@
 
 ## 🚀 Sobre mim
 Mais de 2 anos de experiência na área de desenvolvimento.  
-Gosto de transformar ideias em código e trabalhar em projetos que realmente façam diferença.  
-Sou focado, comunicativo e gosto de aprender rápido — especialmente quando o desafio é grande.  
+Focado em organização, resolução de problemas e entrega de resultados reais.  
+Gosto de trabalhar em equipe e liderar quando preciso.  
+Busco construir software que tenha propósito.
 
 ---
 
 ## 🧠 Tecnologias e Ferramentas
-
-### 💾 Linguagens de Programação
-`C` | `C#` | `Python` | `TypeScript` | `Kotlin` | `Java`
-
-### 🌐 Desenvolvimento Web
+`C` | `C#` | `Python` | `TypeScript` | `Kotlin` | `Java`  
 `HTML` | `CSS` | `JavaScript` | `Node.js`  
-
-### 🧰 Backend & Banco de Dados
-`MySQL` | `Firebase` | `Oracle SQL`  
+`MySQL` | `Firebase` | `Oracle SQL`
 
 ---
 
 ## 🌍 Idiomas
-- 🇧🇷 **Português** — Nativo  
-- 🇺🇸 **Inglês** — Intermediário (B2)  
-- 🇩🇪 **Alemão** — Em aprendizado  
+🇧🇷 **Português** · 🇺🇸 **Inglês (B2)** · 🇩🇪 **Alemão (iniciante)**
 
 ---
 
