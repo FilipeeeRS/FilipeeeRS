@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Filipe Simões  
+# Olá! Eu sou o Filipe Simões  
 
 💻 Desenvolvedor **FullStack**  
 🎓 Estudante de **Engenharia de Software** na PUC-Campinas (2024–2028).  
@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mim
-Mais de 2 anos de experiência na área de desenvolvimento.  
+Mais de 2 anos de experiência.
 Focado em organização, resolução de problemas e entrega de resultados reais.  
 Gosto de trabalhar em equipe e liderar quando preciso.  
 Busco construir software que tenha propósito.
@@ -22,7 +22,7 @@ Busco construir software que tenha propósito.
 ---
 
 ## 🌍 Idiomas
-🇧🇷 **Português** · 🇺🇸 **Inglês (B2)** · 🇩🇪 **Alemão (iniciante)**
+🇧🇷 Português · 🇺🇸 Inglês (B2) · 🇩🇪 Alemão (iniciante)
 
 ---
 
