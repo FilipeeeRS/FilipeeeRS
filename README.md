@@ -1,38 +1,26 @@
-# Olá! Eu sou o Filipe Simões  
+# Filipe Ribeiro Simões
 
-💻 Desenvolvedor **FullStack**  
-🎓 Estudante de **Engenharia de Software** na PUC-Campinas (2024–2028).  
-📍 Campinas, São Paulo, Brasil  
+**Software Engineering Student at PUC-Campinas**
 
----
+*Focused on FullStack Development & Computer Vision*
 
-## 🚀 Sobre mim
-Mais de 2 anos de experiência.
-Focado em organização, resolução de problemas e entrega de resultados reais.  
-Gosto de trabalhar em equipe e liderar quando preciso.  
-Busco construir software que tenha propósito.
+Campinas SP 📍
 
 ---
-
-## 🧠 Tecnologias e Ferramentas
-`C` | `C#` | `Python` | `TypeScript` | `Kotlin` | `Java`  
-`HTML` | `CSS` | `JavaScript` | `Node.js`  
-`MySQL` | `Firebase` | `Oracle SQL`
+### 🛠️ knowledge
+* **Languages:** Python, Kotlin, C#, TypeScript, Java, C.
+* **Web & Backend:** Node.js, HTML5, CSS, JavaScript.
+* **Databases:** MySQL, Oracle SQL, Firebase.
+* **Tools & DevOps:** Git, Linux, Figma.
+---
+### 🌐 Education & Languages
+* **B.S. Software Engineering** | PUC-Campinas (2024 – 2028).
+* **Languages:** Portuguese (Native), English (B2), German (A2).
+---
+### 📈 GitHub Activities
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeeeRS&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff)
 
 ---
-
-## 🌍 Idiomas
-🇧🇷 Português · 🇺🇸 Inglês (B2) · 🇩🇪 Alemão (iniciante)
-
----
-
-## 📊 Estatísticas do GitHub
-![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeeeRS&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeeeRS&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contato
+## 📫 Contact
 📧 **[filiperibeirosimoes@gmail.com](mailto:filiperibeirosimoes@gmail.com)**  
 🔗 [LinkedIn](https://www.linkedin.com/in/filipe-simões-03692a27a)  
-💼 [GitHub](https://github.com/FilipeeeRS)
