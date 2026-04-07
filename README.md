@@ -16,5 +16,3 @@
 * Languages: Portuguese (Native), English (B2), German (A2)
 ---
 # Contact
-📧 **[filiperibeirosimoes@gmail.com](mailto:filiperibeirosimoes@gmail.com)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/filipe-simões-03692a27a)  
