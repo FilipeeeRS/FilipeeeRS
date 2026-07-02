@@ -6,7 +6,7 @@
 
 ---
 ## 🎓 Education & Languages
-* **Software Engineering** — PUC-Campinas (2024 – 2028)
+* **Software Engineering** · PUC-Campinas (2024 – 2028)
 * **Languages:** Portuguese (Native) · English (B2)
 ---
 ## 📫 Contact
