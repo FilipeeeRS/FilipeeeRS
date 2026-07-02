@@ -10,7 +10,8 @@
 * **Languages:** Portuguese (Native) · English (B2)
 ---
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/filipe-simões-03692a27a/) · [Email](mailto:filiperibeirosimoes@gmail.com)
+
+[LinkedIn](https://linkedin.com/in/filipe-simões-03692a27a/) · [Email](mailto:filiperibeirosimoes@gmail.com)  · [Portfólio](https://filipeeers.github.io/)
 
 ---
 ## 🛠️ Tech Stack
