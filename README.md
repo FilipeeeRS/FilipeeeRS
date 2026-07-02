@@ -1,4 +1,4 @@
-# Filipe Ribeiro Simões
+# Filipe Simões
 
 **Software Engineering Student at PUC-Campinas**
 
@@ -10,7 +10,7 @@
 * **Languages:** Portuguese (Native) · English (B2)
 ---
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/filipe-simões-03692a27a/) · [Email](mailto:filiperibeirosimoes@exemplo.com)
+[LinkedIn](https://linkedin.com/in/filipe-simões-03692a27a/) · [Email](mailto:filiperibeirosimoes@gmail.com)
 
 ---
 ## 🛠️ Tech Stack
