@@ -11,7 +11,8 @@
 ---
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/filipe-simões-03692a27a/) · [Email](mailto:filiperibeirosimoes@gmail.com)  · [Portfólio](https://filipeeers.github.io/)  · [Certificates](https://drive.google.com/drive/folders/1_fiRPVKMXtfE_D6npRSCxEnWd31ryBQX)
+[LinkedIn](https://linkedin.com/in/filipe-simões-03692a27a/) · [Email](mailto:filiperibeirosimoes@gmail.com)  · [Portfólio](https://filipeeers.github.io/)  · [Certificates](https://drive.google.com/drive/folders/1_fiRPVKMXtfE_D6npRSCxEnWd31ryBQX) · [Currículo](https://drive.google.com/drive/folders/1gEzIdZecBnO3aS7gZoFw2qhWPRLFX3Fe?usp=sharing)
+
 
 ---
 ## 🛠️ Tech Stack
